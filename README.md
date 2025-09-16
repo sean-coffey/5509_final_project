@@ -24,3 +24,5 @@ The notebook is divided into 3 parts:
 6) Interpretation
 7) Conclusion
 8) Appendix
+
+------------------------------------------------------------------------------------
